@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/12/02 04:00:18.518,=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 04:01:27.213,F:\2031\Projects\FontSetup\Main.View.pas=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 04:01:27.213,F:\2031\Projects\FontSetup\Main.View.dfm=F:\2031\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/12/02 04:01:45.952,F:\2031\Projects\FontSetup\FontSetup.dproj=F:\2031\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/12/02 04:03:33.726,=F:\2031\Projects\FontSetup\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 04:04:23.885,F:\2031\Projects\FontSetup\API\API.Font.Tools.pas=F:\2031\Projects\FontSetup\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 04:15:01.577,=F:\2031\Projects\FontSetup\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 04:15:46.622,F:\2031\Projects\FontSetup\API\API.Vcl.Folders.pas=F:\2031\Projects\FontSetup\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 04:16:41.936,F:\2031\Projects\FontSetup\API\API.Vcl.Files.pas=F:\2031\Projects\FontSetup\API\API.Vcl.Folders.pas</Transaction>
+  </Transactions>
+</BorlandProject>
